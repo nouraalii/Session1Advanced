@@ -28,5 +28,6 @@ namespace Session1Assignment
         {
             return Max - Min;
         }
+
     }
 }
